@@ -1,0 +1,18 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1771514339883,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1771514339883,
+            "name": "Commit-0",
+            "content": "# reddit-view-comments-on-hover\n## View Comments inside Comment Thread on Reddit Homepage without clicking! Just Hover\n#### What is it?\n- `A simple easy to install userscript to use on Reddit specically old Reddit`\n#### What Does it Do?\n- ` Allows you to view comments without having to click and enter the Chat Thread on homescreen. Now you can simply choose to preview or view all comments by hovering the mouse over the comments text(link) located in the menu below all of threads text `\n-` Easy to find and use `\n- `Compatiable and designed for the best reddit layout: the old Reddit homescreen (btw url does not have to be old.reddit.com-simply turn off new reddit and it will work`\n\n### ***Check* *It* *Out!***\n![alt text](reddit2.png)\n\n"
+        }
+    ]
+}

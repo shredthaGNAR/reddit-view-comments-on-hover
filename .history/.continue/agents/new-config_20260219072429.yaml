@@ -1,0 +1,23 @@
+# This is an example configuration file
+# To learn more, see the full config.yaml reference: https://docs.continue.dev/reference
+
+name: Example Config
+version: 1.0.0
+schema: v1
+
+# Define which models can be used
+# https://docs.continue.dev/customization/models
+models:
+  - name: my gpt-5
+    provider: vanity
+    model: gpt-5
+    apiKey: vc-uLlJPWW-uoZpBMaZZBm72HiY1OMaoP9h
+  - uses: claude-4.6-OPUS
+  - uses: claude-4.5-sonnet
+    with:
+      ANTHROPIC_API_KEY: ${{ secrets.ZANITY_API_KEY }}
+
+# MCP Servers that Continue can access
+# https://docs.continue.dev/customization/mcp-tools
+mcpServers:
+  - uses: anthropic/memory-mcp
