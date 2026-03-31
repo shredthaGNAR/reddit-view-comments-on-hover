@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Reddit Hover Comments (All Reddit Domains)
-// @namespace    https://github.com/azizLIGHT
+// @namespace    https://github.com/shredthaGNAR/reddit-view-comments-on-hover/
 // @version      3.0
-// @description  Hover over comment links on any Reddit page to preview top comments in a popup
-// @author       azizLIGHT (rewritten for reddit.com compatibility)
+// @description  Hover over comments on any Reddit page and get a preview of top comments in a popup
+// @author       shredthaGNAR (rewritten for reddit.com compatibility and updated to work again on old.reddit)
 // @match        *://reddit.com/*
 // @match        *://*.reddit.com/*
 // @match        *://old.reddit.com/*
@@ -17,8 +17,8 @@
 // @connect      reddit.com
 // @connect      www.reddit.com
 // @connect      old.reddit.com
-// @homepageURL  https://github.com/azizLIGHT/rComments
-// @supportURL   https://github.com/azizLIGHT/rComments/issues
+// @homepageURL  https://github.com/shredthaGNAR/reddit-view-comments-on-hover/
+// @supportURL  https://github.com/shredthaGNAR/reddit-view-comments-on-hover//issues
 // @license      MIT
 // ==/UserScript==
 
