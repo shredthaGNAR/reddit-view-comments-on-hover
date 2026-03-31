@@ -16,5 +16,5 @@ Read Reddit Comments without clicking and opening thread pages. View comments po
 ### ***Check* *It* *Out!***
 ![Userscript in action](reddit2.png)
 
-![Previewing Reddit Comments by Hovering](reddit.png)
+![Previewing Reddit Comments by Hovering](reddit.jpg)
 
